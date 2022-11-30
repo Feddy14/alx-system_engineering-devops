@@ -3,3 +3,4 @@
 2. Changes working directory to user's home directory
 3. Display current directory contents in long format
 4. Display current directory contents in long format including hidden files
+5. Display more files
