@@ -9,3 +9,4 @@
 8. Deleting the file betty
 9. Deleting the directory in the /tmp/ directory
 10. Changes working directory to the previous one
+11. Script that list all files in a specific order
