@@ -13,3 +13,8 @@
 12. Prints the type of file named iamafile
 13. Creating a symbolic link
 14. Copy/update HTML files
+15. moves all files beginning with an uppercase letter to the directory /tmp/u
+16. deletes all files in the current working directory that end with the character ~
+17. creates certain directories
+18. lists all the files and directories of the current directory, separated by commas 
+19. Creates a magic file
