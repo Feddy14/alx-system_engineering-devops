@@ -11,3 +11,5 @@
 10. Changes working directory to the previous one
 11. Script that list all files in a specific order
 12. Prints the type of file named iamafile
+13. Creating a symbolic link
+14. Copy/update HTML files
